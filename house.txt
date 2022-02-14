@@ -1,2 +1,2 @@
-Hello world
+Hello world!
 This was made by me while I was learning the git and how to commit and create files using command line
